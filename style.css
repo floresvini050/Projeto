@@ -1,0 +1,49 @@
+.header {
+    background-color: #0A1D37;
+    text-align: center;
+    height: 70px;}
+
+    .button_register {
+    height: 30px;
+    background-color: #0a1d37;
+    color: #FFFFFF;}
+
+    body {
+        background-color: #030A17;
+        font-family: 'Poppins', sans-serif;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+        min-height: 100vh;
+    }
+
+    .form {
+        text-align: center;
+        margin-top: 100px;
+        background-color: #aaaaaa;
+        color: #000000; 
+        width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 10px;
+        border-radius: 10px;
+        
+    }
+
+    .button_2 {
+        background-color: #0A1D37;
+        color: #FFFFFF;
+        height: 30px;
+        width: 100px;
+        border-radius: 5px;
+    }
+
+    footer {
+        background-color: #0A1D37;
+        color: #FFFFFF;
+        text-align: center;
+        height: 50px;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    }
